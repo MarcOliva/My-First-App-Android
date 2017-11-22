@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="subtitle">Pasteleria Fina</string>
+    <string name="first_phone">Oficina: 608-88-51</string>
+    <string name="second_phone">Carlos : 955129192</string>
+    <string name="third_phone">Cecilia. 949956464</string>
+    <string name="direction">AV La Floresta 416, SANTIAGO DE SURCO</string>
+    <string name="country">Peru - Lima</string>
+    <string name="little_description">Es una empresa dedicada al rubro de la reposteria,"\n"teniendo como principales productos los kekes y pie\'s</string>
+    <string name="facebook_url">https://www.facebook.com/DCeci-450409428489963/</string>
+</resources>
